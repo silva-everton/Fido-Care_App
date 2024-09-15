@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   loginText: {
-    fontSize: 36,
+    fontSize: 30,
     fontFamily: 'NunitoSans-extraBold',
     color: Colors.SOFTCREAM,
     marginTop: 20,  
@@ -40,9 +40,9 @@ const styles = StyleSheet.create({
   loginLink: {
     position: 'absolute',
     bottom: 100, 
-   width: '80%',
+    width: '80%',
     borderColor: Colors.TURQUOISE,
-    borderRadius: 10, // Add borderRadius to round the corners
+    borderRadius: 10, 
     backgroundColor: Colors.TURQUOISE,
     textAlign: 'center',    
     alignItems: 'center',
