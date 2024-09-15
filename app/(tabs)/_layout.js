@@ -14,7 +14,7 @@ export default function _layout() {
             tabBarActiveTintColor:Colors.PRIMARY,
             tabBarInactiveTintColor: 'gray',
             tabBarStyle: {
-                backgroundColor: 'white',
+                backgroundColor:Colors.SOFTCREAM,
                 borderTopColor: 'transparent',
                 elevation: 0
             }
