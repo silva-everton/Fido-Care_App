@@ -4,7 +4,7 @@ import React from 'react'
 export default function bookings() {
   return (
     <View style={styles.container}>
-      <Text>Design the booking page here</Text>
+      <Text>Design the booking page here!</Text>
     </View>
   );
 }

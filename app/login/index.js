@@ -27,6 +27,6 @@ const styles = StyleSheet.create({
   },
   linkText: {
     fontSize: 18,
-    color: Colors.primary, // Assuming you have a primary color defined in Colors
+    color: Colors.PRIMARY,
   },
 });
